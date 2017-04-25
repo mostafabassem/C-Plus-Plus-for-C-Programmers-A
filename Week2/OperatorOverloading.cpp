@@ -1,6 +1,6 @@
 //	Author 			: Mostafa Bassem Heiba
-// 	Description 	: Generic Function for summation of vectors of allowed datatypes (int,double,etc..)
-//  Date			: 26/4/2017
+// 	Description 		: Generic Function for summation of vectors of allowed datatypes (int,double,etc..)
+//  	Date			: 26/4/2017
 
 #include <iostream>
 
